@@ -1,3 +1,17 @@
+<center>
+<h1>
+In The Name Of ALLAH
+</h1>
+<h2>
+Advanced Programming - Homework 8
+</h2>
+<h2>
+Dr.Amir Jahanshahi
+</h2>
+<h3>
+Deadline: 
+</center>
+
 # Part1: Image Viewer
 In this part, you would design and implement a simple image viewer. The requirements are shown on the video file **APHW8.mp4**. You must create something like that shown on the video. Your GUI must be in **gui.ui** and your codes for this part must be in **aphw8.py**.
 
