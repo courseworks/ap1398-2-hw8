@@ -9,8 +9,10 @@ Advanced Programming - Homework 8
 Dr.Amir Jahanshahi
 </h2>
 <h3>
-Deadline: 
+Deadline: Friday, 20 Tir
 </center>
+    
+<img src="stuff/f1.jpg" width="500" class="center" />
 
 # Part1: Image Viewer
 In this part, you would design and implement a simple image viewer. The requirements are shown on the video file **APHW8.mp4**. You must create something like that shown on the video. Your GUI must be in **gui.ui** and your codes for this part must be in **aphw8.py**.
@@ -108,3 +110,5 @@ Please note that any number of static variables could be defined as:
 Compared to previous questions, this type of decorator can accept input arguments.
 
 Hint: you can use `setattr` function to add extra attributes to any object. Functions are also objects in functional programming paradigm.
+
+<img src="stuff/f2.jpg" width="550" class="center" />
